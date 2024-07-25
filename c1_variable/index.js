@@ -1,0 +1,11 @@
+"use strict";
+console.log("hello world");
+let name1 = "marium";
+name1 = "123";
+var x = 34216237263;
+console.log(x);
+console.log(name1);
+var pi = 3.142;
+console.log(pi);
+var str = "marium";
+console.log(str);
